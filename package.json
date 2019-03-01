@@ -1,0 +1,12 @@
+{
+  "name": "@j0nz/laravel-mix-eslint",
+  "version": "1.0.0",
+  "description": "ESLint plugin for laravel mix",
+  "main": "laravel-mix-eslint.js",
+  "author": "Reed Jones <reedjones@reedjones.com>",
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com:reed-jones/laravel-mix-eslint.git"
+  }
+}
